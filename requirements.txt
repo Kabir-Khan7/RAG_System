@@ -8,3 +8,5 @@ faiss-cpu
 chromadb
 transformers==4.44.2
 tokenizers==0.19.1
+langchain-groq
+python-dotenv
